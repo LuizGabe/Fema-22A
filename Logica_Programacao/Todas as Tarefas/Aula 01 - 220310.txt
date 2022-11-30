@@ -1,0 +1,9 @@
+1. Crie duas variáveis A e B e imprima o resultado das operações básicas de +,-.*,/. 
+
+2. Crie uma variável e atributa o seu nome a ela, após mostre a seguinte mensagem: 'Olá meu nome é SEU_NOME' alterando o texto SEU_NOME pelo valor informado na variável.
+
+3. Crie um programa para calcular a média aritmética de 3 valores.
+
+4. Crie um programa com duas variáveis 'totalDaCompra' e 'porcentagemDeDesconto' após realize o calculo de desconto e mostre o resultado.
+
+5. João é um investidor e ele quer um programa para calcular o seu lucro nas suas operações financeiras. Crie uma variável para o capital inicial investido e o capital final, calcule o lucro ou prejuízo da operação. 

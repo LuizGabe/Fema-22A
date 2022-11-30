@@ -1,0 +1,15 @@
+/* Colocar fundo azul fraco e texto alinhado ao centro */
+body {
+    background-color: rgb(103, 187, 255);
+    text-align: center;
+}
+
+/* Colocar espaçamento no topo so site */
+div {
+    padding-top: 130px;
+}
+
+/* Coloca um espaçamento entre os textos */
+h1 {
+    padding-top: 25px;
+}

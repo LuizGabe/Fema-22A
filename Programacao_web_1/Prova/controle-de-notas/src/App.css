@@ -1,0 +1,65 @@
+/* Deixa vermelho a nota menor que 7 */
+.pVermelho {
+  color:red;
+  font-style: bold;
+}
+
+/* Configurações para deixar o botão do formulario bonito */
+button#formulario {
+  border: 0;
+  color:white;
+  border-radius: 10px;
+  background-color: green;
+  padding: 10px;
+  font-size: 20px;
+  height: 50px;
+  margin-top: 4%;
+}
+/* Coloca em todos os inputs uma margim para melhor visualização */
+.mb-3 {
+  margin: 30px;
+}
+/* Coloca o formulario de nome como flex e no meio */
+#formNome {
+  display: flex;
+  justify-content: center;
+}
+/* Deixa o título no meio */
+h1 {
+ margin-left:35%;
+}
+/* Coloca o botão para azul e cor do texto como branco */
+.botao{
+  background-color: #24386e;
+  color: #fff;
+}
+/* Botão de editar fica em azul e outras configurações menores */
+.edit{
+  background-color: #24386e;
+  border-color: #24386e;
+  color: #fff;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+/* Coloca o botão de deletar para vermelho e cor do texto para branco, além de uma borda curva */
+.delete{
+  background-color: #B02836;
+  border-color: #B02836;
+  color: #fff;
+  border-radius: 5px;
+}
+/* Coloca margem em baixo do elemento da tabela
+   Para que o footer não tampe algum item da lista */
+#tabelinha{
+  margin-bottom:100px;
+}
+/* Coloca as configurações da imagem */
+img{
+  width: 220px;
+  margin-left: 40px;
+  padding: 5px;
+}
+/* Texto titulo no meio */
+h5{
+  margin: auto 5%;
+}

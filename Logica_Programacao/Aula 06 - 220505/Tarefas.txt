@@ -1,0 +1,23 @@
+Atividades
+
+1. Joãozinho vai convidar alguns colegas da escola para comer pizza em sua casa. Dona Maria, a
+mãe de Joãozinho precisa saber quanto vai gastar com isto. Escreva um algoritmo que, dado o
+número de colegas que vão comer pizza, calcule o total da despesa, sabendo que: 
+
+a) cada criança come três pedações de pizza; 
+b) cada pizza é cortada em dez pedaços; 
+c) cada pizza custa R$ 21,00. (Apenas pizzas inteiras).
+
+
+2. Crie um programa que exiba uma matriz 10x10 como o exemplo abaixo, utilizando laço de repetição
+
+|x| |x| |x| |
+| |x| |x| |x|
+|x| |x| |x| |
+| |x| |x| |x|
+|x| |x| |x| |
+| |x| |x| |x|
+
+
+3. A sequência Fibonacci é 1, 1, 2, 3, 5, 8, 13, 21, 34... crie um algoritmo para calcular os 50
+primeiros números da sequência.

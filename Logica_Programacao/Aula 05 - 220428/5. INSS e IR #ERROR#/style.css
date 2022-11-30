@@ -1,0 +1,40 @@
+/* Define a cor de fundo como azul fraco, alinha o texto no centro da página, aumenta a fonte*/
+body {
+    background-color: rgb(103, 187, 255);
+    text-align: center;
+    font-size: 2em;
+}
+
+/* Define a cor de fundo do id Salario como azul mais azul, define uma borda azul forte, e a cor dos objetos como azul fraco */
+#salario {
+    background-color: #2071b3;
+    border-color: #10568f;
+    color: #67bbff;
+}
+
+/* Define a cor de fundo do id Calcular como azul forte, borda azul e cor dos elementos como azul fraco */
+#calcular {
+    background-color: #07467a;
+    border-color: #2071b3;
+    color: #67bbff;
+}
+
+/* Coloca o display como bloco e um espaçamento do topo da página */
+div {
+    display: block;
+    padding-top: 130px;
+}
+
+/* Define a altura do objeto como 30px e a margem de baixo para 50px */
+input {
+    height: 30px;
+    margin-bottom: 50px;
+}
+
+/* Define a altura do objeto para 40px, a largura como 80px, tamanho da fonte como 18px e margem do topo da página como 50px */
+button {
+    height: 40px;
+    width: 80px;
+    font-size: 18px;
+    margin-top: 50px;
+}

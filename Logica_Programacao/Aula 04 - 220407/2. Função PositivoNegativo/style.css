@@ -1,0 +1,16 @@
+/* Define a cor de fundo como azul fraco, e coloca o texto no centro */
+body {
+    text-align: center;
+    background-color: rgb(103, 187, 255);
+}
+
+/* Define o tamanho do texto maior */
+h1 {
+    padding-top: 200px;
+    font-size: 5em;
+}
+
+/* Define o tamanho do texto maior */
+h2 {
+    font-size: 3em;
+}

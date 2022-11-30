@@ -1,0 +1,31 @@
+1. Criar uma página com o nome completo e a foto de cada um dos integrantes
+
+2. Criar uma página para controlar uma lista de compras. 
+
+    Consiste em um campo para adicionar itens na lista.
+
+    com a possibilidade de editar, excluir 
+
+    Marcar que já pegou o item. 
+
+    Essa lista deve ser salva no LocalStorage.
+
+3. Criar uma página para controlar a lista de vídeos do youtube para estudar. 
+
+    Consiste no cadastro de um vídeo do youtube (link) e uma descrição. 
+
+    Pode ser editado o link do vídeo e a descrição
+
+    Pode ser excluído.
+
+    Deve ter uma opção para marcar que já assisti o video
+
+    Essa lista deve ser salva no LocalStorage.
+
+4. Criar uma página para controlar uma lista de produtos vendidos por um bar, como por exemplo: refri, cerveja, pizza, porção de fritas. 
+
+    O produto tem um nome e preço e imagem
+
+    O produto pode ser editado e excluído.
+
+    Essa lista deve ser salva no local storage.

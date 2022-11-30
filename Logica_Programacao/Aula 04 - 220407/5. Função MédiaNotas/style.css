@@ -1,0 +1,21 @@
+/* Define a cor de fundo azul fraco, e alinha o texto no meio */
+body {
+    background-color: rgb(103, 187, 255);
+    text-align: center;
+}
+
+/* Coloca um espaçamento e aumenta a letra */
+div {
+    padding-top: 120px;
+    font-size: 1.5em;
+}
+
+/* Aumenta a letra do título */
+h1 {
+    font-size: 3em;
+}
+
+/* Troca a cor de alguns elementos */
+.media {
+    color: rgb(91, 0, 175);
+}

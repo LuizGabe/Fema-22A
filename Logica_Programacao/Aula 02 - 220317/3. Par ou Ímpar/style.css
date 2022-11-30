@@ -1,0 +1,11 @@
+/* Definir a cor de fundo para azul fraco e colocar o texto no meio da página */
+body {
+    background-color: rgb(103, 187, 255);
+    text-align: center;
+}
+
+/* Colocar o texto mais para o meio da pagina e aumentar a letra */
+h1 {
+    font-size: 5em;
+    padding-top: 180px;
+}

@@ -1,0 +1,11 @@
+1. Crie um programa para calcular qual é o ano das copas do mundo, da primeira até o ano atual.
+
+2. Crie um programa que mostre os números de 1 até 50 exceto o 10, 20, 30, 40, 50.
+
+3. Imprimir as tabuadas pares do 1 até 10, indo do 1 até 10.
+
+4. Crie um jogo de adivinhação de número e enquanto o usuário não acertar 
+o valor continue pedindo para informar o valor. Se o usuário errar mais de 3 vezes 
+finalize e avise o usuário que ele perdeu.
+
+5. Mostre os números pares de 1 até 100.

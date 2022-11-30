@@ -1,0 +1,23 @@
+1. Crie um programa que pergunte o nome do usuário após mostre a mensagem de boas vindas. 
+    Exemplo: 'Olá XXXXX seja bem vindo’.
+    
+2. Crie um programa para mostrar as tabuadas de 1 até 100 indo de 1 até 5. 
+
+3. Crie um programa que leia 3 notas (0-100) de um aluno e calcule a sua média, mostrando uma mensagem no 
+final, de acordo com a média atingida: 
+    a) até 49 REPROVADO; 
+    b) 50 até 69 RECUPERAÇÃO;
+    c) acima de 70 APROVADO
+
+4. Faça um programa que leia a largura e o comprimento de um terreno retangular, calculando e mostrando a 
+sua área em m². O programa também deve mostrar a classificação desse terreno, de acordo com: 
+    a) abaixo de 100 m² TERRENO POPULAR; 
+    b) entre 100 m² até 500 m² TERRENO MASTER; 
+    c) acima de 500 m² TERRENO VIP.
+
+5. Desenvolva um programa que leia o nome de um funcionário, seu salário, quantos anos ele trabalha na 
+empresa e mostre seu novo salário, reajustado de acordo com a tabela a seguir: 
+    a) até 3 anos de empresa aumento de 3%; 
+    b) entre 3 à 10 anos de empresa aumento de 12,5%; 
+    c) acima de 10 anos aumento de 20%
+

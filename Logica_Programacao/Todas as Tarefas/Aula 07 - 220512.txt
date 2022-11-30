@@ -1,0 +1,6 @@
+1. Crie um vetor e armazene 5 notas informadas pelo usuário, após calcule a média e exiba o resultado da média.
+
+2. Dado o vetor [2,4,3,8,9,10,11,15] utilizando for para percorrer o vetor mostre apenas os números pares.
+
+3. Dado o vetor a = [2,4,3,8,9,10,11,15] e b = [11,15,20,30,40,2] utilizando for para percorrer os vetores, 
+crie um vetor c com os elementos em comum.

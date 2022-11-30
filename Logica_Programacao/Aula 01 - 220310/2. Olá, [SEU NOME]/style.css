@@ -1,0 +1,13 @@
+/* Deixa a cor de fundo azul fraco */ 
+body {
+    background-color: rgb(103, 187, 255);
+}
+/* Coloca no meio e aumenta a letra */ 
+.meio {
+    text-align: center;
+    font-size: 3em;
+}
+/* Dá um espaçamento da lateral */ 
+div {
+    padding: 180px;
+}

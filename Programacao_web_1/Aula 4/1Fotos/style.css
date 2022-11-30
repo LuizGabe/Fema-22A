@@ -1,0 +1,84 @@
+/* Coloca uma imagem como background e alinha o texto no meio */
+body {
+    background-image: url(https://images3.alphacoders.com/662/thumb-1920-662023.png);
+    text-align: center;
+}
+/* Coloca um tamanho para cada imagem, borda arredondada e espaçamento da imagem */
+img {
+    width: 200px;
+    height: 266px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+/* Coloca todas as divs como uma tabela inline e o texto no meio */
+div {
+    display: inline-table;
+    text-align: center;
+}
+/* Coloca as pessoas como bloco inline, e arruma o flex */
+#pessoas {
+    display: inline-block;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+/* Coloca em cada pessoa, um alinhamento no meio, uma configuração para ficar em coluna, o bloco inline, uma margin de 50px e uma borda de 10px azul */
+.pessoa {
+    align-items: center;
+    flex-direction: column;
+    display: inline-block;
+    margin: 50px;
+    border: 10px blue;
+}
+/* Coloca em cada label uma fonte mais interessante uma sombra no texto e define a cor do texto e seu tamanho */
+label{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Roboto Mono', monospace;;
+    text-shadow: 1px 1px #ff0000;
+    color: #000000;
+    font-size: 24px;
+}
+/* Quando o usuário passar o mouse pelo elemento com a classe zoom vai dar uma pequena aumentada na imagem */
+.zoom{
+    transition: all .5s;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    -ms-transition: all .5s;
+}
+img.zoom:hover {
+    transform : scale(1.1);
+    -moz-transform : scale(1.1);
+    -webkit-transform : scale(1.1);
+    -o-transform : scale(1.1);
+    -ms-transform : scale(1.1);
+}
+/* Aumente o tamanho do texto, alinha no meio, define uma fonte e uma sombra vermelha */
+h1 {
+    size: 5em;
+    align-items: center;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Roboto Mono', monospace;;
+    text-shadow: 2px 2px #ff0000;
+}
+/* Animação pronta para a animação de escrever o texto principal */
+h1 {
+    overflow: hidden;
+    border-right: .15em solid orange;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: .15em; 
+    animation: 
+      typing 3.5s steps(40, end),
+      blink-caret 1s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes blink-caret {
+    from, 
+    to { border-color: transparent }
+    50% { border-color: orange; }
+}

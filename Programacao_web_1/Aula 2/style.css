@@ -1,0 +1,46 @@
+h1#titulo {
+padding-left: 190px;
+padding-top: 10px;
+}
+h1#contador {
+    padding-left: 240px;
+}
+div#input{
+    padding-left: 165px;
+}
+#aumentar {
+    color: green;
+    padding-left: 50px;
+}
+#reiniciar {
+    color: red;
+}
+#diminuir {
+    color: blue;
+}
+button {
+    border: 0;
+    background-color: transparent;
+    font-size: 30px;
+}
+#contador {
+    color: darkblue;
+}
+div#janela {
+    align-items: center;
+    background-color: white;
+    height: 290px;
+    width: 500px;
+    margin-left: 427px;
+    margin-top: 200px;
+    border-radius: 10px;
+    
+}
+input#inicial {
+    border-radius: 3px;
+    border-width: 2px;
+    border-color: lightgray;
+}
+body {
+    background-color: black;
+}

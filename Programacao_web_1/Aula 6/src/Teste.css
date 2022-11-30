@@ -1,0 +1,30 @@
+button {
+    margin:20px;
+    border: 0;
+    border-radius: 20px;
+    width: 90px;
+    height: 30px;
+    text-size-adjust: 20px;
+}
+#content {margin-top: 150px;}
+body {
+    background-color: rgb(150, 150, 150);
+}
+#add {
+    background-color: green;
+    color: white;
+}
+#reset {
+    background-color: blue;
+    color: white;
+}
+#sub {
+    background-color: red;
+    color: white;
+}
+#botoes {
+    margin-left: 450px;
+}
+h1 {
+    margin-left: 630px;
+}

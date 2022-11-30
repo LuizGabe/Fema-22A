@@ -1,0 +1,15 @@
+/* Define a cor do fundo como azul fraco e alinha o texto no meio */
+body {
+    background-color: rgb(103, 187, 255);
+    text-align: center;
+}
+
+/* Dá um espaçamento do início da página */
+div {
+    padding-top: 200px;
+}
+
+/* Aumenta o tamanho da fonte */
+h1 {
+    font-size: 3em;
+}

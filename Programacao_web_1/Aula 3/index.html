@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Femaflix</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">  
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="shortcut icon" href="https://imgkub.com/images/2022/08/16/F-icon.png">
+
+</head>
+<body onload="inicializar()">
+    <nav> 
+        <img id="logoFemaFlix" src="https://imgkub.com/images/2022/07/02/Femaflix.png">
+       
+            <div id="risco"></div> 
+                <form id="formulario" onsubmit="salvarFilme(event)">
+                    <div id="nav">
+                    <input type="hidden" id="idFilme" />
+                    <label id="labelTitulo">Titulo: </label>
+                    <input id="titulo" alt:"" type="text">  
+                    <label id="labelLink">Link Da Imagem: </label>
+                    <input id="link" type="text"> 
+                    <button id="salvar" type="submit">Salvar</button>
+                    </div>
+                </form>
+        <input onclick="teste()" id="mostrarNav" type="button">
+    </nav>
+    <div id="listaDeFilmes"></div>
+</body>
+</html>

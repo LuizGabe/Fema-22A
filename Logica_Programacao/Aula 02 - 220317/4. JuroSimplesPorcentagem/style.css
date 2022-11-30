@@ -1,0 +1,14 @@
+/* Define a cor de fundo como azul fraco */
+body{
+    background-color:rgb(103, 187, 255);
+}
+
+/* Alinha o texto no meio */
+.meio {
+    text-align: center;
+}
+
+/* Define um espaçamento do inicio da página */
+div {
+    margin-top: 150px; 
+}

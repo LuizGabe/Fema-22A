@@ -1,0 +1,5 @@
+/* Coloca a cor do fundo como azul fraco e alinha o texto no meio */
+body {
+    background-color: rgb(103, 187, 255);
+    text-align: center;
+}

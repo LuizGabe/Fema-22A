@@ -1,0 +1,63 @@
+/* Define a margem e o espaçamento como 0 para ajustar individualmente depois */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* Coloca um fundo escuro */
+body {
+    background-color: rgb(39, 39, 39);
+}
+/* Retira a borda amarela do input */
+div {
+    margin: 0px;
+    }
+    textarea:focus, input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+/* Define uma cor branca com o nome md-light para os icones do google */
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+/* Coloca uma borda de 3px cinza, uma cor de fundo cinza escuro e um tamanho maximo, alem de definir uma margem */
+.Item {
+    border: 3px rgb(87, 87, 87) solid;
+    background-color: rgb(65, 65, 65);
+    border-radius: 11px;
+    display: flexbox;
+    max-width: 700px;
+    margin: 20px;
+}
+/* Define um tamanho e define a cor de fundo do input como transparente */
+input {
+    border: 0px;
+    height: 24px;
+    width: 400px;
+    background-color: transparent;
+}
+/* Define a cor do titulo 2 como branca */
+h2 {
+    color: white;
+}
+/* Tira a borda, define a cor de fundo como transparente, uma borda redonda e uma margem na esquerda */
+button {
+    border: 0px;
+    background-color: transparent;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+/* Se o mouse passar pelo botão ele fica cinza fraco */
+button:hover {
+    background-color: rgb(114, 114, 114);
+}
+/* Define uma cor cinza para a nav, uma altura, uma borda redonda em baixo e um espaçamento */
+nav {
+    background-color: rgb(88, 88, 88);
+    height: 20px;
+    border-radius: 0px 0px 15px 15px;
+    padding: 30px;
+}
+/* Define uma margem da esquerda como 5px, preta e uma largura de 450px  */
+hr {
+    margin-left: 5px;
+    color: black;
+    width: 450px;
+}

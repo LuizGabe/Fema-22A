@@ -1,0 +1,35 @@
+1. Crie um programa que recebe três notas de 0..100, calcule a média e caso seja maior ou igual a 70 
+diga que você foi aprovado, caso contrário reprovado. Também informe qual é o seu conceito seguindo as 
+seguintes regras: 
+        0 até 49 conceito D, 
+        50 até 69 conceito C, 
+        70 até 89 conceito B, de 
+        90 até 100 conceito A;
+
+2. Crie um programa que receberá 3 valores e mostre o maior valor.
+
+3. Crie um programa que recebe um valor informado pelo usuário e diga se o valor é par ou ímpar.
+
+4. João é um investidor e ele quer um programa para calcular o seu lucro nas suas operações financeiras. 
+Ele irá informar o capital inicial investido e o capital final, calcule o lucro ou prejuízo da operação. 
+Mostre o valor de ganho ou prejuízo e a porcentagem de ganho ou prejuízo. 
+Para facilitar o entendimento mostre uma mensagem por exemplo. 
+"Você teve um ganho de R$ ... (...%)" ou "Você teve um prejuízo de R$ ... (...%)"
+
+5 Crie um programa para calcular desconto de acordo com a forma de pagamento. Seguindo os seguintes passos:
+
+          a. Solicitar o valor total da compra;
+
+          b. Solicitar a forma de pagamento que terá as seguintes opções: 
+                1) à vista; 
+                2) cartão de débito; 
+                3) cartão crédito; 
+                Caso seja selecionado a opção 1 ou 2 o programa deverá aplicar 5% de desconto.
+
+          c. O programa irá mostrar em uma janela o valor total da compra, o desconto, a forma de pagamento e o valor total a pagar. 
+
+6. A empresa SuperTech está com dificuldades para calcular o valor líquido que o colaborador irá receber. 
+Crie um sistema para calcular o salário líquido, considere que: 
+        a) salários de R$ 1.500,00 até R$ 2.000,00 terão 10% de desconto em impostos; 
+        b) salários R$ 2.000 até R$ 2.500,00 terão 15% de desconto em impostos, 
+        c) salários acima de R$ 2.500,00 terão 18% de impostos.

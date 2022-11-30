@@ -1,0 +1,10 @@
+/* Define a cor de fundo como azul claro */
+body {
+    background-color: rgb(103, 187, 255);
+}
+
+/* Coloca o texto no meio da página e da um espaço nas laterais */
+h2 {
+    text-align: center;
+    padding: 10px;
+}

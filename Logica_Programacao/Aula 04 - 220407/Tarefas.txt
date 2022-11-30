@@ -1,0 +1,22 @@
+1. Crie uma função que recebe um texto qualquer como parâmetro após imprima o valor utilizando o console.log
+
+2. Crie uma função que receba um número e retorna verdadeiro caso o valor seja positivo 
+e falso se o valor for negativo 
+
+3. Crie uma função que recebe um valor e a porcentagem, calcule e retorne o valor
+
+4. Faça uma função que recebe um valor inteiro e verifica se o valor é par ou ímpar. 
+Se o valor for par retorno booleano verdadeiro.
+
+5. Crie uma função que receba 3 notas como parâmetro, após calcule a média e retorne 
+o valor e mostre para o usuário.
+
+6. Crie a tabuada do 10 até o 1 indo de 10 até 1.
+
+7. Crie um programa que receba o valor do salário e o total de horas trabalhadas no mês. 
+Calcule o valor da hora recebida.
+
+8. Crie um programa que solicite ao usuário um valor investido, a taxa de juros anual e a 
+quantidade de dias com o valor investido, após calcule com base na tabela regressiva o valor liquido. 
+link para tabela regressiva 
+https://paranabancoinvestimentos.com.br/blog/entenda-como-funciona-a-tabela-regressiva-da-renda-fixa/  

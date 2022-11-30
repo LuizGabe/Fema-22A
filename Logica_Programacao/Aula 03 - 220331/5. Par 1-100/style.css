@@ -1,0 +1,9 @@
+/* Define a cor de fundo como azul fraco */
+body {
+    background-color: rgb(103, 187, 255);
+}
+
+/* Coloca o texto no meio da página */
+h1 {
+    text-align: center;
+}

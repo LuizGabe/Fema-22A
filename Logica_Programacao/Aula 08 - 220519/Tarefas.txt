@@ -1,0 +1,16 @@
+1. Crie um programa que peça 5 valores do usuário e armazene em um vetor. Após calcule a média e 
+encontre o maior valor.
+
+2. Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser pintada e a 
+quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta pinta uma área de 2 metros 
+quadrados.
+
+3. Escreva um programa para aprovar ou não o empréstimo bancário para a compra de uma casa. O programa vai 
+perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação 
+mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
+
+4. Desenvolva um algoritmo que mostre uma contagem regressiva de 30 até 1, marcando os números que forem 
+divisíveis por 4, exatamente como mostrado abaixo: 30 29 [28] 27 26 25 [24] 23 22 21 [20] 19 18 17 [16]...
+
+5. Faça um programa que leia 7 nomes de pessoas e guarde-os em um vetor. No final, mostre uma listagem com 
+todos os nomes informados, na ordem inversa daquela em que eles foram informados.
