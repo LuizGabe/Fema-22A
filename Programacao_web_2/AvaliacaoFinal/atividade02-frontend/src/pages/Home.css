@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:wght@300;700;900&display=swap');
+
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  block-size: 100%;
+}
+
+body {
+  margin: 0;
+  font-size: 1.5rem;
+  background-image: url('../assets/vimal-s-LPawq1Y4oys-unsplash.jpg');
+  background-size: cover;
+  background-repeat: repeat;
+}
+img{
+  width: 15rem;
+  height: 15rem;
+}
+
+h1{
+  text-align: center;
+}
+#pessoa{
+  text-align:center;
+  display:block;
+  margin-bottom: 0.5rem;
+  margin-inline: 2rem;
+  float:left;
+  background: rgba(134, 119, 119, 0.23);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  width: 27rem;
+  height: 20rem;
+
+}
+.atividade4{
+  z-index: 1;
+  display: block;
+  background: rgba(134, 119, 119, 0.23);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  width: 1000px;
+  padding: 7px;
+  margin: 15px auto;
+  margin-top: 80px;
+  }
+p,li,label{
+  font-family: Alef, serif;
+  color: rgba(255, 255, 255, 0.91);
+}
+p{
+  font-weight: bold;
+}
+
+#nome {
+  --s: 0.1em;
+  --c: #7252a2;
+
+  color: #0000;
+  padding-bottom: var(--s);
+  background:
+          linear-gradient(90deg,var(--c) 50%, #ffffff 0) calc(100% - var(--_p,0%))/200% 100%,
+          linear-gradient(var(--c) 0 0) 0% 500%/var(--_p,0%) var(--s) no-repeat;
+  -webkit-background-clip: text,padding-box;
+  transition: 1.5s;
+}
+#nome:hover {--_p: 100%}
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-content: center;
+}
+
+h1{
+  font-family: "Exo 2", sans-serif;
+  order: 2;
+  color: #ffffff;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 3rem;
+  line-height: 0.75em;
+  text-align: center;
+}
+h1 {
+  --s: 0.1em;
+  --c: #7252a2;
+
+  color: #0000;
+  padding-bottom: var(--s);
+  background:
+          linear-gradient(90deg,var(--c) 50%, #ffffff 0) calc(100% - var(--_p,0%))/200% 100%,
+          linear-gradient(var(--c) 0 0) 0% 500%/var(--_p,0%) var(--s) no-repeat;
+  -webkit-background-clip: text,padding-box;
+  transition: 1.5s;
+}
+h1:hover {--_p: 100%}
+
+#pessoa:hover
+{
+  box-shadow: 0 0 100px #000000;
+  z-index: 2;
+  -webkit-transition: all 600ms ease-in;
+  -webkit-transform: scale(0.1);
+  -ms-transition: all 600ms ease-in;
+  -ms-transform: scale(0.1);
+  -moz-transition: all 600ms ease-in;
+  -moz-transform: scale(0.1);
+  transition: all 200ms ease-in;
+  transform: scale(1.5);
+}
+
+#voltar{
+  text-align: center;
+  display: inline-block;
+  margin: 1rem;;
+  font-family: "Exo 2", sans-serif;
+  order: 2;
+  color: #ffffff;
+  font-weight: 900;
+  font-size: 2.4rem;
+  line-height: 0.75em;
+  text-align:center;
+  display:block;
+  margin-bottom: 0.5rem;
+  margin-inline: 2rem;
+  background: rgba(134, 119, 119, 0.23);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  width: 27rem;
+  height: 2.7rem;
+}
+#voltar {
+  --s: 0.1em;
+  --c: #7252a2;
+
+  color: #0000;
+  padding-bottom: var(--s);
+  background:
+          linear-gradient(90deg,var(--c) 50%, #ffffff 0) calc(100% - var(--_p,0%))/200% 100%,
+          linear-gradient(var(--c) 0 0) 0% 500%/var(--_p,0%) var(--s) no-repeat;
+  -webkit-background-clip: text,padding-box;
+  transition: 1.5s;
+}
+#voltar:hover {--_p: 100%}
+
+h2{
+  font-family: "Exo 2", sans-serif;
+  order: 2;
+  color: #ffffff;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  line-height: 0.75em;
+  text-align: center;
+}
+h2 {
+  --s: 0.1em;
+  --c: #7252a2;
+
+  color: #0000;
+  padding-bottom: var(--s);
+  background:
+          linear-gradient(90deg,var(--c) 50%, #ffffff 0) calc(100% - var(--_p,0%))/200% 100%,
+          linear-gradient(var(--c) 0 0) 0% 500%/var(--_p,0%) var(--s) no-repeat;
+  -webkit-background-clip: text,padding-box;
+  transition: 1.5s;
+}
+h2:hover {--_p: 100%}
