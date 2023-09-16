@@ -1,0 +1,30 @@
+// schema.prisma
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Item {
+  id        String       @id @default(uuid())
+  name      String
+  price     Float
+  desactive  Boolean      @default(false)
+  createdAt DateTime  @default(now())
+  sales     Sale[]
+  
+  @@index([name])
+}
+
+model Sale {
+  id        String       @id @default(uuid())
+  itemId    String
+  quantity  Int
+  totalPrice Float
+  createdAt DateTime  @default(now())
+  item      Item      @relation(fields: [itemId], references: [id])
+}

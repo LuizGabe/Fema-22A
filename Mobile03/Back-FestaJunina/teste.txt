@@ -1,0 +1,23 @@
+O aluno  terá  que  desenvolver um backend e posteriormente a  integração  com 
+app que foi desenvolvido anteriormente, mantendo as funcionalidade do app como 
+estavam anteriormente. 
+
+Os critério de avaliação serão os seguintes:
+
+- [x]: Fazer a conexão entre o front e backend
+
+- [x]: Utiliza o prisma como ORM
+
+- [x]: Utilizar o SQLite como banco de dado
+
+- [x]: Fazer a rota de consulta dos itens vendidos
+
+- [x]: Fazer a rota de cadastro dos itens vendidos
+
+- [x]: Fazer a rota de exclusão de item vendidos
+
+Pontuação:
+
+1p -> Entrega no prazo
+
+14p -> Código atendendo o proposto da atividade
