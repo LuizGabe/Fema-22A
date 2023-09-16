@@ -1,0 +1,35 @@
+[
+    {
+        "_id": "76c53171-82cf-4f80-8ff5-9cee84121a35",
+        "colId": "history",
+        "containerId": "",
+        "name": "{{urlBase}}",
+        "url": "{{urlBase}}",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-01T00:58:13.653Z",
+        "modified": "2023-07-01T00:58:13.653Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    },
+    {
+        "_id": "f209cc40-7ea7-44d4-b867-8b70bd5af6af",
+        "colId": "history",
+        "containerId": "",
+        "name": "Register User",
+        "url": "{{urlBase}}/user/login",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2023-07-01T00:58:13.653Z",
+        "modified": "2023-07-15T01:14:06.197Z",
+        "headers": [],
+        "params": [],
+        "body": {
+            "type": "json",
+            "raw": "{\n  \"email\": \"luizgabrielgrupe@gmail.com\",\n  \"password\": \"minhaSenha\"\n}",
+            "form": []
+        },
+        "tests": []
+    }
+]
